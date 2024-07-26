@@ -3,9 +3,6 @@
 ## Project Overview
 This project focuses on the development and evaluation of Convolutional Neural Networks (CNNs) for an image classification task using the CIFAR-10 dataset. The project aims to compare the performance of CNNs using transfer learning with pre-trained weights for the initial layers against a model trained from scratch. The main goals are to understand the benefits of transfer learning in terms of classification accuracy and to explore the impact of data augmentation techniques on the overall performance.
 
-## Project Duration
-**November 2023 - December 2023**
-
 ## Skills Utilized
 - Deep Learning
 - Convolutional Neural Networks (CNN)
